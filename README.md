@@ -1,4 +1,4 @@
-# Sonoma on Atermiter X79 + E5-2620v2 + AMD RX6600 | OpenCore
+# Sonoma on Atermiter X99H + E5-2670v3 + AMD RX6600 | OpenCore
 
 ## I made publicly available my configuration, so people struggling like I was can at least get closer to a solution.
 
